@@ -63,7 +63,7 @@
           "type": "uint64"
         },
         {
-          "internalType": "string",
+          "internalType": "string", 
           "name": "",
           "type": "string"
         },
